@@ -2,5 +2,13 @@
 
 A new Flutter project.
 
-**Screenshots**
-![Alt text](repoimages/img.jpg?raw=false "Home view"){:height="50%" width="50%"}
+# Mockup Preview
+<img src="./repoimages/preview.png" width="600">
+
+# Screenshots
+<img src="./repoimages/img.jpg" width="300">
+<img src="./repoimages/img2.jpg" width="300">
+
+
+
+credit for design: https://www.uplabs.com/posts/e-commerce-shop-home-delivery-shoe-app-ui
